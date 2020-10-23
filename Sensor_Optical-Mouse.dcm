@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PAN3204DB
+D Wireless Mouse Sensor
+K optical mouse sensor i2c
+F https://cdn.datasheetspdf.com/pdf-down/P/A/N/PAN3204DB-PXI.pdf
+$ENDCMP
+#
+#End Doc Library
