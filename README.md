@@ -5,7 +5,7 @@ If you still need some components, then please refer [some other Third Party Lib
 
 ## Included components
  * __Sensor_Optical-Mouse__
-  * PAN3204DB
+   * PAN3204DB
 
 ## Contribution
 Every contribution is welcomed, of course.
