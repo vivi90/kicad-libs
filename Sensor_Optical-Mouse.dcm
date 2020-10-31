@@ -1,8 +1,14 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP A3060
+D Optical Mouse Sensor
+K optical mouse sensor spi
+F http://pdf.datasheetcatalog.com/datasheet2/9/0opeydz8pk55dp30dczkyk0ttzpy.pdf
+$ENDCMP
+#
 $CMP PAN3204DB
-D Wireless Mouse Sensor
-K optical mouse sensor i2c
+D Wireless Optical Mouse Sensor
+K wireless optical mouse sensor i2c
 F https://cdn.datasheetspdf.com/pdf-down/P/A/N/PAN3204DB-PXI.pdf
 $ENDCMP
 #
